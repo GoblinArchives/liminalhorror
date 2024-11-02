@@ -43,7 +43,7 @@ Crossover: A Liminal Horror & Triangle Agency Crossover Reality
 A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees
 ![image](/img/hungry.png)
 - [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow)
-- Print copies coming soon to Space Penguin Ink
+- [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-parthenogenesis-of-hungry-hollow-for-liminal-horror-rpg)
 
 ## Tales From The Void
 In 2022 we did an official collaboration with three creatives to bring their vision of pamphlet adventures to reality. These were their stories.

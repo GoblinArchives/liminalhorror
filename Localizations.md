@@ -8,13 +8,15 @@ has_children: false
 
 # Localizations
 
-- [French](https://stouttoujours.itch.io/traduction-fr-liminal-horror#new_tab)
+- Spanish: [PDF](https://laesquinadelrol.itch.io/liminalhorror) or [Web-based](https://liminalhorror.laesquinadelrol.com/)
+- [French](https://horreurliminale.itch.io/horreur-liminale)
 - [German](https://hauntedhomes.itch.io/liminaler-horror-liminal-horror-legacy-edition-german-translation)
 - [Italian](https://hauntedhomes.itch.io/liminaler-horror-liminal-horror-legacy-edition-german-translation)
 - [Japanese](https://goblinarchives.itch.io/japaneseliminalhorror)
 - [Portugese](https://www.drivethrurpg.com/en/product/455670/liminar-horror)
 - [Russian](https://docs.google.com/document/d/1acZNDBU4plks9nIxJ5suquzV-q1u5xFfAfJOJRrNQug/edit)
-- Spanish: [PDF](https://laesquinadelrol.itch.io/liminalhorror) or [Web-based](https://liminalhorror.laesquinadelrol.com/)
+- [Chinese](https://zznoah.itch.io/liminal-horror-chs)
+
 
 # Localization Guide
 Although the Liminal Horror rules exist in many forms (PDF, Google Docs, Word, etc), the [SRD](https://liminalhorrorrpg.com/SRD/) is probably the best choice for ease of translation. Not only is it all in one place, but it is the version of the rules that is licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) which will make it the easiest to translate and create with.
