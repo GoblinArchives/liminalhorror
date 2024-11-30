@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Localizations
-nav_order: 9
+nav_order: 10
 has_children: false
 
 ---

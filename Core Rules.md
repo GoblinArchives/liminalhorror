@@ -12,7 +12,7 @@ Liminal Horror is a rules-lite, adaptable modern horror roleplaying game about n
 
 A **print copy** of Liminal Horror Investigators can be purchased from [Space Penguin Ink](https://spacepenguin.ink/products/liminal-horror-investigators)
 
-A **digital pdf** can be found at <a href="https://goblinarchives.itch.io/liminal-horror" target="_blank">https://goblinarchives.itch.io/liminal-horror</a>.
+A **digital pdf** can be found at [https://goblinarchives.itch.io/liminal-horror](https://goblinarchives.itch.io/liminal-horror)
 
 <p></p>
 
