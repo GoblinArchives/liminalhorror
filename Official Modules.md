@@ -15,11 +15,11 @@ The core rules ready to bring to the table for players and facilitators).
 - [PDF](https://goblinarchives.itch.io/liminal-horror)
 - [In Print](https://spacepenguin.ink/collections/liminal-horror/products/liminal-horror-investigators)
 
-## The Mall
+## The Mall Remastered
 What if The Thing were set in a 1990s mall?
 ![image](/img/mall.png)
 - [PDF](https://goblinarchives.itch.io/the-mall)
-- [In Print](https://www.exaltedfuneral.com/collections/free-rpg-iv-the-funeral-chapter-ef-exclusives/products/the-mall)
+- [In Print](https://spacepenguin.ink/collections/liminal-horror/products/the-mall-remastered-for-liminal-horror-rpg)
 
 ## The Bureau
 It's Gradient Descent meets Control in the office as a modern mega-dungeon.
