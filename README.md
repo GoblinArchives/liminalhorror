@@ -8,7 +8,7 @@ permalink: /
 
 # Liminal Horror Deluxe Edition
 Coming to Backerkit April 15th, 2025
-Follow here: [bit.ly/liminalhorror](bit.ly/liminalhorror)
+Follow here: [bit.ly/liminalhorror](https://www.backerkit.com/call_to_action/4e24ba76-5cb5-4514-b636-b68f8475acdb/landing)
 
 *There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
 
@@ -24,7 +24,7 @@ The Investigators Edition (the core rules ready to bring to the table for player
 
 ## Official Modules
 - **The Mall Remastered** *What if The Thing were set in a 1990s mall?* [PDF](https://goblinarchives.itch.io/the-mall) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-mall-remastered-for-liminal-horror-rpg)
-- **The Bureau** *It's Gradient Descent meets Control* [PDF](https://goblinarchives.itch.io/the-bureau) 
+- **The Bureau** *It's Gradient Descent meets Control* [PDF](https://goblinarchives.itch.io/the-bureau)
 - **The Bloom** *What if Twin Peaks had a The Last of Us arc?* [PDF](https://goblinarchives.itch.io/the-bloom) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-bloom)
 - **One Night At The Shelterwood Inn** *Crossover: A Liminal Horror & Triangle Agency Crossover Reality* [PDF](https://unenthuser.itch.io/one-night) or [in print](https://spacepenguin.ink/products/one-night-at-the-shelterwood-inn)
 - **The Parthenogenesis of Hungry Hollow** *A modern reimagining of N1 Against the Cult of the Reptile God, but with flesh bees* [PDF](https://goblinarchives.itch.io/the-parthenogenesis-of-hungry-hollow) or [in print](https://spacepenguin.ink/collections/liminal-horror/products/the-parthenogenesis-of-hungry-hollow-for-liminal-horror-rpg)
