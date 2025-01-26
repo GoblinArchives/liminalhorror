@@ -7,6 +7,9 @@ permalink: /
 
 
 # Liminal Horror Deluxe Edition
+
+![banner](/img/banner.png)
+
 Coming to Backerkit April 15th, 2025
 
 [Follow On Backerkit](https://liminalhorrorrpg.com/deluxe)
