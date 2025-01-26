@@ -8,7 +8,8 @@ permalink: /
 
 # Liminal Horror Deluxe Edition
 Coming to Backerkit April 15th, 2025
-Follow here: [bit.ly/liminalhorror](https://www.backerkit.com/call_to_action/4e24ba76-5cb5-4514-b636-b68f8475acdb/landing)
+
+[Follow On Backerkit](https://liminalhorrorrpg.com/deluxe)
 
 *There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
 
