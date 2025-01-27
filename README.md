@@ -10,9 +10,7 @@ permalink: /
 
 ![banner](/img/banner.jpeg)
 
-Coming to Backerkit April 15th, 2025
-
-[Follow On Backerkit](https://liminalhorrorrpg.com/deluxe)
+[Coming to Backerkit April 15th, 2025](https://liminalhorrorrpg.com/deluxe)
 
 *There’s a strange comfort to ambiguity. To stand at the threshold between states of what was and what’s next, to inhabit the places of transition. But you’re never truly alone here. There are things that hunger within the dark places. Strange creatures and mysteries lie in wait and tumbling into the wrong place at the wrong time may put you on the path towards doom.*
 
